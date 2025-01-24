@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\FirstConsoleApp.csproj",
-      "projectName": "FirstConsoleApp",
-      "projectPath": "C:\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\FirstConsoleApp.csproj",
+      "projectUniqueName": "C:\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Lessons_Atharva\\Lessons_Atharva.csproj",
+      "projectName": "Lessons_Atharva",
+      "projectPath": "C:\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Lessons_Atharva\\Lessons_Atharva.csproj",
       "packagesPath": "C:\\Users\\atharva.dhanagare\\.nuget\\packages\\",
-      "outputPath": "C:\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\obj\\",
+      "outputPath": "C:\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Lessons_Atharva\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

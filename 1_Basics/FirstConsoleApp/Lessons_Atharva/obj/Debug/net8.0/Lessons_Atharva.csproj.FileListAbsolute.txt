@@ -1,0 +1,15 @@
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\bin\Debug\net8.0\Lessons_Atharva.exe
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\bin\Debug\net8.0\Lessons_Atharva.deps.json
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\bin\Debug\net8.0\Lessons_Atharva.runtimeconfig.json
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\bin\Debug\net8.0\Lessons_Atharva.dll
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\bin\Debug\net8.0\Lessons_Atharva.pdb
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\Lessons_Atharva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\Lessons_Atharva.AssemblyInfoInputs.cache
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\Lessons_Atharva.AssemblyInfo.cs
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\Lessons_Atharva.csproj.CoreCompileInputs.cache
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\Lessons_Atharva.sourcelink.json
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\Lessons_Atharva.dll
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\refint\Lessons_Atharva.dll
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\Lessons_Atharva.pdb
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\Lessons_Atharva.genruntimeconfig.cache
+C:\Commercial_Training\1_Basics\FirstConsoleApp\Lessons_Atharva\obj\Debug\net8.0\ref\Lessons_Atharva.dll
