@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lessons_Atharva/1.0.0": {
+        "runtime": {
+          "Lessons_Atharva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lessons_Atharva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
