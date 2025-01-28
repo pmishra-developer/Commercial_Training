@@ -1,0 +1,15 @@
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.exe
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.deps.json
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.runtimeconfig.json
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.dll
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.pdb
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.sourcelink.json
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.dll
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\refint\FirstConsoleApp.dll
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.pdb
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.genruntimeconfig.cache
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\ref\FirstConsoleApp.dll
