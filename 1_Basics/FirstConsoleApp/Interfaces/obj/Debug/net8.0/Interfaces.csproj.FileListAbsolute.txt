@@ -1,0 +1,15 @@
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

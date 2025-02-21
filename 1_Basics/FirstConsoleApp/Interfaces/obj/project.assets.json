@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Abstraction.csproj",
-      "projectName": "Abstraction",
-      "projectPath": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Abstraction.csproj",
+      "projectUniqueName": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Interfaces.csproj",
+      "projectName": "Interfaces",
+      "projectPath": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\sheron.adrienarokias@sainsburys.co.uk\\.nuget\\packages\\",
-      "outputPath": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\obj\\",
+      "outputPath": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sheron.adrienarokias@sainsburys.co.uk\\AppData\\Roaming\\NuGet\\NuGet.Config",

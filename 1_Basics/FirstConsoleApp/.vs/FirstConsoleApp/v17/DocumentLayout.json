@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|solutionrelative:firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\interfaces\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\interfaces\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\interfaces\\inature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\inature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|solutionrelative:firstconsoleapp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|solutionrelative:firstconsoleapp\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|solutionrelative:firstconsoleapp\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +46,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Cat.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Cat.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Cat.cs",
+              "RelativeToolTip": "Interfaces\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:32:44.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Dog.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Dog.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Dog.cs",
+              "RelativeToolTip": "Interfaces\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:18:50.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INature.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\INature.cs",
+              "RelativeDocumentMoniker": "Interfaces\\INature.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\INature.cs",
+              "RelativeToolTip": "Interfaces\\INature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:17:10.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAnimal.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "Interfaces\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:15:43.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program1.cs",
-              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Program1.cs",
-              "RelativeDocumentMoniker": "FirstConsoleApp\\Program1.cs",
-              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Program1.cs",
-              "RelativeToolTip": "FirstConsoleApp\\Program1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:57:24.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
+              "RelativeToolTip": "FirstConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T13:38:39.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Shape.cs",
               "RelativeDocumentMoniker": "FirstConsoleApp\\Shape.cs",
               "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Shape.cs",
               "RelativeToolTip": "FirstConsoleApp\\Shape.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAzwBQAAAAVAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwBQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T13:23:39.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Crow.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Crow.cs",
               "RelativeDocumentMoniker": "FirstConsoleApp\\Crow.cs",
@@ -73,28 +154,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Bird.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Bird.cs",
               "RelativeDocumentMoniker": "FirstConsoleApp\\Bird.cs",
               "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Bird.cs",
               "RelativeToolTip": "FirstConsoleApp\\Bird.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T09:10:49.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "FirstConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
-              "RelativeToolTip": "FirstConsoleApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:02:30.088Z",
               "EditorCaption": ""
             }
           ]
