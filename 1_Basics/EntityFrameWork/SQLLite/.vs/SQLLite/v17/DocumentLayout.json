@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\EntityFrameWork\\SQLLite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F60009-11A2-40AD-A2C3-3FF8844C38A7}|SQLLite\\SQLLite.csproj|c:\\commercial practice\\commercial_training\\1_basics\\entityframework\\sqllite\\sqllite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F60009-11A2-40AD-A2C3-3FF8844C38A7}|SQLLite\\SQLLite.csproj|solutionrelative:sqllite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F60009-11A2-40AD-A2C3-3FF8844C38A7}|SQLLite\\SQLLite.csproj|c:\\commercial practice\\commercial_training\\1_basics\\entityframework\\sqllite\\sqllite\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F60009-11A2-40AD-A2C3-3FF8844C38A7}|SQLLite\\SQLLite.csproj|solutionrelative:sqllite\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F60009-11A2-40AD-A2C3-3FF8844C38A7}|SQLLite\\SQLLite.csproj|c:\\commercial practice\\commercial_training\\1_basics\\entityframework\\sqllite\\sqllite\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F60009-11A2-40AD-A2C3-3FF8844C38A7}|SQLLite\\SQLLite.csproj|solutionrelative:sqllite\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\EntityFrameWork\\SQLLite\\SQLLite\\Product.cs",
+              "RelativeDocumentMoniker": "SQLLite\\Product.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\EntityFrameWork\\SQLLite\\SQLLite\\Product.cs",
+              "RelativeToolTip": "SQLLite\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:17:56.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\EntityFrameWork\\SQLLite\\SQLLite\\Customer.cs",
+              "RelativeDocumentMoniker": "SQLLite\\Customer.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\EntityFrameWork\\SQLLite\\SQLLite\\Customer.cs",
+              "RelativeToolTip": "SQLLite\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:17:13.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\EntityFrameWork\\SQLLite\\SQLLite\\Program.cs",
+              "RelativeDocumentMoniker": "SQLLite\\Program.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\EntityFrameWork\\SQLLite\\SQLLite\\Program.cs",
+              "RelativeToolTip": "SQLLite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:05:36.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
