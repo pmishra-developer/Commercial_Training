@@ -1,0 +1,15 @@
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\bin\Debug\net8.0\linq.exe
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\bin\Debug\net8.0\linq.deps.json
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\bin\Debug\net8.0\linq.runtimeconfig.json
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\bin\Debug\net8.0\linq.dll
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\bin\Debug\net8.0\linq.pdb
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\linq.AssemblyInfoInputs.cache
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\linq.AssemblyInfo.cs
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\linq.csproj.CoreCompileInputs.cache
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\linq.sourcelink.json
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\linq.dll
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\refint\linq.dll
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\linq.pdb
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\linq.genruntimeconfig.cache
+C:\Commercial Practice\Commercial_Training\1_Basics\FirstConsoleApp\linq\obj\Debug\net8.0\ref\linq.dll

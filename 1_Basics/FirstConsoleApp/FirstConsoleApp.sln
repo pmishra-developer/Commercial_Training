@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction", "FirstConsoleApp\Abstraction.csproj", "{98E2708F-C7FA-42D0-90EB-87749E289B84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{5097452F-63CC-4DE0-AC38-8D0542E2F203}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{5097452F-63CC-4DE0-AC38-8D0542E2F203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq", "linq\linq.csproj", "{BD0F8875-5EE3-4B9E-B417-A53765EC0F95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5097452F-63CC-4DE0-AC38-8D0542E2F203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5097452F-63CC-4DE0-AC38-8D0542E2F203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5097452F-63CC-4DE0-AC38-8D0542E2F203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0F8875-5EE3-4B9E-B417-A53765EC0F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0F8875-5EE3-4B9E-B417-A53765EC0F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0F8875-5EE3-4B9E-B417-A53765EC0F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0F8875-5EE3-4B9E-B417-A53765EC0F95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

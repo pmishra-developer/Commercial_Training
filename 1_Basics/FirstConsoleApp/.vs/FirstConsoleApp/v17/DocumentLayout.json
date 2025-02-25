@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD0F8875-5EE3-4B9E-B417-A53765EC0F95}|linq\\linq.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0F8875-5EE3-4B9E-B417-A53765EC0F95}|linq\\linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0F8875-5EE3-4B9E-B417-A53765EC0F95}|linq\\linq.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0F8875-5EE3-4B9E-B417-A53765EC0F95}|linq\\linq.csproj|solutionrelative:linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98E2708F-C7FA-42D0-90EB-87749E289B84}|FirstConsoleApp\\Abstraction.csproj|solutionrelative:firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5097452F-63CC-4DE0-AC38-8D0542E2F203}|Interfaces\\Interfaces.csproj|c:\\commercial practice\\commercial_training\\1_basics\\firstconsoleapp\\interfaces\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\linq\\Product.cs",
+              "RelativeDocumentMoniker": "linq\\Product.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\linq\\Product.cs",
+              "RelativeToolTip": "linq\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:37:52.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\linq\\Program.cs",
+              "RelativeDocumentMoniker": "linq\\Program.cs",
+              "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\linq\\Program.cs",
+              "RelativeToolTip": "linq\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:36:44.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Cat.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Cat.cs",
               "RelativeDocumentMoniker": "Interfaces\\Cat.cs",
@@ -58,12 +92,11 @@
               "RelativeToolTip": "Interfaces\\Cat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T12:32:44.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T12:32:44.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Dog.cs",
               "RelativeDocumentMoniker": "Interfaces\\Dog.cs",
@@ -71,12 +104,11 @@
               "RelativeToolTip": "Interfaces\\Dog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T12:18:50.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T12:18:50.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "INature.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\INature.cs",
               "RelativeDocumentMoniker": "Interfaces\\INature.cs",
@@ -84,12 +116,11 @@
               "RelativeToolTip": "Interfaces\\INature.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T12:17:10.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T12:17:10.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IAnimal.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\IAnimal.cs",
               "RelativeDocumentMoniker": "Interfaces\\IAnimal.cs",
@@ -97,12 +128,11 @@
               "RelativeToolTip": "Interfaces\\IAnimal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T12:15:43.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T12:15:43.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\Interfaces\\Program.cs",
               "RelativeDocumentMoniker": "Interfaces\\Program.cs",
@@ -115,20 +145,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "FirstConsoleApp\\Program.cs",
               "ToolTip": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
               "RelativeToolTip": "FirstConsoleApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T13:38:39.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Shape.cs",
               "RelativeDocumentMoniker": "FirstConsoleApp\\Shape.cs",
@@ -136,12 +166,11 @@
               "RelativeToolTip": "FirstConsoleApp\\Shape.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAYwBQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T13:23:39.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T13:23:39.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Crow.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Crow.cs",
               "RelativeDocumentMoniker": "FirstConsoleApp\\Crow.cs",
@@ -149,12 +178,11 @@
               "RelativeToolTip": "FirstConsoleApp\\Crow.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAwBMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:44:58.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T09:44:58.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Bird.cs",
               "DocumentMoniker": "C:\\Commercial Practice\\Commercial_Training\\1_Basics\\FirstConsoleApp\\FirstConsoleApp\\Bird.cs",
               "RelativeDocumentMoniker": "FirstConsoleApp\\Bird.cs",
@@ -162,8 +190,7 @@
               "RelativeToolTip": "FirstConsoleApp\\Bird.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:10:49.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T09:10:49.472Z"
             }
           ]
         }
